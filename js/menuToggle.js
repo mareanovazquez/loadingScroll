@@ -29,4 +29,4 @@ window.addEventListener('keydown', (event) => {
         menuToggle.classList.remove("on");
         menuShow.classList.remove("menuShow");
     }
-  });
+});
